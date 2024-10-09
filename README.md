@@ -1,0 +1,2 @@
+# Phishing-Simulation-Campaign
+Designed and Deployed a phishing campaign simulation to enhance our organizations email security awareness. Leveraged numerous phishing simulation tools to create realistic targeted phishing emails. After testing, I deployed the campaign to select employees and tracked detailed statistics on who interacted with the email. This data allowed me to identify employees who needed additional security training.
