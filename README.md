@@ -3,8 +3,8 @@ Designed and Deployed a phishing campaign simulation to enhance our organization
 
 Tools & Resources
 
-**Proofpoint**: Utilized proofpoint to create my phishing campaige while being able to see the effectivness and metrics of emplyoees who interacted with the email. 
+**Proofpoint**: Utilized Proofpoint to create my phishing campaign while being able to see the effectivness and metrics of emplyoees who interacted with the email. 
 
-**MITRE ATT&CK Framework**: Researched and Gained more information about phishing ta=echniques and aligned tactics to my current campaign.
+**MITRE ATT&CK Framework**: Researched and gained more information about phishing techniques and aligned tactics to my current campaign.
 
 
